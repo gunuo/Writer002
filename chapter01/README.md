@@ -1,7 +1,7 @@
 ## 第一周的进展
 
 - Assignee~ 北京区第12组
-- @bambooom @baishyue @inzesi @7101eo 
+- @bambooom @baishyue @inzesi @7101eo @badboy315
 
 - `note.md` 
 - 1wd1 1、质量大的物体造成时空扭曲，资源多的城市造成时空扭曲。
